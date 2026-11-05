@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "7291ee4cb5545d42",
+    "type": "split",
+    "children": [
+      {
+        "id": "54fcfae4ce5b3dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bac5a1f15256844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Overview README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Overview README"
+            }
+          },
+          {
+            "id": "740b68363a86c218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 2 Initial Calculations and CEA/Initial Calculations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Initial Calculations"
+            }
+          },
+          {
+            "id": "c24e58b95eac1e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 2 Initial Calculations and CEA/CEA Run.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CEA Run"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cf816a111b3d21c",
+    "type": "split",
+    "children": [
+      {
+        "id": "49692ef127ba01d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9934e0a7d781c56c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b7289eb8087ccf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "021d339ac4d2d6f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e4592afd7cab28c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2adcd62cd90955ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f73c359241825e55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Overview README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b85f043aa1445702",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project Overview README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1e5ce17641f82dff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0f958ab7a521b11d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f91de492752cda6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project Overview README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c24e58b95eac1e20",
+  "lastOpenFiles": [
+    "Section 2 Initial Calculations and CEA/Initial Calculations.md",
+    "Section 2 Initial Calculations and CEA/Isp vs OF Ratio.png",
+    "Section 2 Initial Calculations and CEA/~$cea_new_rocket2_output.tmp",
+    "Section 2 Initial Calculations and CEA/CEA Run.md",
+    "Section 1 Initial Parameters/Determining Initial Parameters.md",
+    "Section 2 Initial Calculations and CEA/Pasted image 20261104221553.png",
+    "Section 2 Initial Calculations and CEA/Chamber Temp and MW vs OF Ratio.png",
+    "Section 2 Initial Calculations and CEA/Chamber Flame Temp and MW vs OF Ratio.png",
+    "Section 2 Initial Calculations and CEA/~$cea_new_rocket_output.tmp",
+    "Section 2 Initial Calculations and CEA/cea_new_rocket2_output.xlsx",
+    "Section 2 Initial Calculations and CEA/cea_new_rocket2_output.csv",
+    "Section 2 Initial Calculations and CEA/desktop.ini",
+    "Section 2 Initial Calculations and CEA/cea_new_rocket_output.xlsx",
+    "Section 2 Initial Calculations and CEA/cea_new_rocket2_output.txt",
+    "Section 2 Initial Calculations and CEA/New Text Document.txt",
+    "Section 2 Initial Calculations and CEA/cea_new_rocket_output.csv",
+    "Section 2 Initial Calculations and CEA/prelim_cea_output.csv",
+    "Project Overview README.md",
+    "Welcome.md"
+  ]
+}

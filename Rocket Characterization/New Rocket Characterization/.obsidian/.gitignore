@@ -1,0 +1,20 @@
+# Obsidian temporary workspace files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+
+# Temporary files
+*.tmp
+*.bak
