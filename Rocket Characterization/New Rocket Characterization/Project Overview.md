@@ -1,6 +1,6 @@
 The purpose of this vault is to document the process of choosing and characterizing the properties for the new unnamed rocket Blue Horizons is designing for the FAR OUT competition. 
 
-This vault will contain folders and files for individual steps, with the order listed in the README for each folder/section. More complex calculations will be done in MATLAB with linked .m files. The main tool for initial characterization is NASA's Chemical Equilibrium with Applications or CEA, which helps with finding the majority of the conditions for the rocket.
+This vault will contain folders and files for individual steps, with the order listed in the individual file numbers for each folder/section. More complex calculations will be done in MATLAB with linked .m files. The main tool for initial characterization is NASA's Chemical Equilibrium with Applications or CEA, which helps with finding the majority of the conditions for the rocket.
 
 A few definitions of terms used in these documents:
 $P_0$ or chamber pressure is the pressure inside the combustion chamber before the nozzle of the rocket.
