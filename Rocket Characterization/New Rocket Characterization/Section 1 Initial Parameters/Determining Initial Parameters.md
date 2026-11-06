@@ -35,7 +35,7 @@ $\Delta P_{tank}=-\frac{\rho V^2}{2}+h\rho g_0-35kPa$
 Where the first term is the pressure loss due to the propellant going from stationary to moving through the pipes (dynamic loss), the second term is the pressure gained by gravity through the pipes, and the last term is the assumed friction loss due to the pipes. For the pressure change over the injector, it is assumed that the injector pressure loss is 20% of the chamber pressure since our engine is not throttled.
 
 See the matlab file pressure_budget.m for the calculations to find the chamber pressure.
-Chamber pressure is determined to be 805.61 kPa
+Chamber pressure is determined to be 805.61 psi.
 
 ### Final List of Starting Parameters
 - Thrust: 725 lbs

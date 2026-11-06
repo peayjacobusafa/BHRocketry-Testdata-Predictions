@@ -41,6 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Project Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Overview"
+            }
+          },
+          {
+            "id": "5c00c67af6fdb73f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Section 2 Initial Calculations and CEA/CEA Run.md",
                 "mode": "source",
                 "source": false
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,26 +231,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "c24e58b95eac1e20",
+  "active": "5c00c67af6fdb73f",
   "lastOpenFiles": [
+    "Section 3 Flight Prediction/rocket_performance.fig",
+    "Section 3 Flight Prediction/rocket_performance.svg",
+    "Section 3 Flight Prediction/BHR_drag.m",
+    "Section 3 Flight Prediction/Predicted Rocket Flight.md",
+    "Section 3 Flight Prediction/BHR_make_colors_accessible.m",
+    "Section 3 Flight Prediction/BHR_atmosphere_model.m",
+    "Section 3 Flight Prediction/rocket_flight_prediction.asv",
+    "Section 3 Flight Prediction/rocket_flight_prediction.m",
+    "Section 2 Initial Calculations and CEA/CEA Run.md",
+    "Section 1 Initial Parameters/Determining Initial Parameters.md",
+    "Project Overview.md",
+    "Section 3 Flight Prediction",
     "Section 2 Initial Calculations and CEA/Initial Calculations.md",
     "Section 2 Initial Calculations and CEA/Isp vs OF Ratio.png",
     "Section 2 Initial Calculations and CEA/~$cea_new_rocket2_output.tmp",
-    "Section 2 Initial Calculations and CEA/CEA Run.md",
-    "Section 1 Initial Parameters/Determining Initial Parameters.md",
     "Section 2 Initial Calculations and CEA/Pasted image 20261104221553.png",
     "Section 2 Initial Calculations and CEA/Chamber Temp and MW vs OF Ratio.png",
     "Section 2 Initial Calculations and CEA/Chamber Flame Temp and MW vs OF Ratio.png",
     "Section 2 Initial Calculations and CEA/~$cea_new_rocket_output.tmp",
     "Section 2 Initial Calculations and CEA/cea_new_rocket2_output.xlsx",
     "Section 2 Initial Calculations and CEA/cea_new_rocket2_output.csv",
-    "Section 2 Initial Calculations and CEA/desktop.ini",
-    "Section 2 Initial Calculations and CEA/cea_new_rocket_output.xlsx",
-    "Section 2 Initial Calculations and CEA/cea_new_rocket2_output.txt",
-    "Section 2 Initial Calculations and CEA/New Text Document.txt",
-    "Section 2 Initial Calculations and CEA/cea_new_rocket_output.csv",
-    "Section 2 Initial Calculations and CEA/prelim_cea_output.csv",
-    "Project Overview README.md",
     "Welcome.md"
   ]
 }

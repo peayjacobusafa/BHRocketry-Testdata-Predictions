@@ -1,0 +1,1 @@
+With a thrust, weight, and burn time, it is possible to calculate the flight path of the rocket using Matlab. 
